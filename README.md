@@ -1,6 +1,5 @@
 # seo-bot-python
 Simple SEO bot built using Python. Runs on OSX with Tor Browser Bundle Installed. 
+ 
 
-Full README under construction 17/01/18. 
-
-See http://jacobdent.com/blog 
+See https://jacobdent.com/blog/search-engine-optimisation-bot for instructions.
