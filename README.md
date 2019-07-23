@@ -26,6 +26,9 @@ Time, Os, (Py)Socks, Stem, Subprocess
 6. Changes identity every 30 seconds through port 9051, previously initialised in steps 1 and 2.
 7. Returns read and write bytes generated after each switch.
 
+# Future updates 
+1) Crawling the target URL pages as each Tor identity. 
+
 # OLD Script is oldseobot.py
 See https://jacobdent.com/blog/search-engine-optimisation-bot for information on how the bot works.
 - Note, the blog post above contains instsructions meant only for the old version of the seobot now called, oldseobot.py.
