@@ -21,7 +21,7 @@ Time, Os, (Py)Socks, Stem, Subprocess
 1. Sets up a default proxy at local host.
 2. Initialises a SSL to be used. 
 3. Takes a target URL from user input.
-4. Opens Tor Browsers, waits to load.
+4. Opens Tor Browser, waits to load.
 5. Opens target URL in new tab, waits to load.
 6. Changes identity every 30 seconds through port 9051, previously initialised in steps 1 and 2.
 7. Returns read and write bytes generated after each switch.
