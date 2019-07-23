@@ -13,7 +13,7 @@ Time, Os, (Py)Socks, Stem, Subprocess
 4. Enter target URL.
 5. Sit back and grab a coffee.
 
-![gr](https://user-images.githubusercontent.com/10816773/61673851-10c1bb00-ace9-11e9-940f-30bf279b841a.png)
+![gr](https://user-images.githubusercontent.com/10816773/61674548-2dabbd80-acec-11e9-841e-a2bdcf0cb6af.png)
  
 # OLD Script is seobot.py
 See https://jacobdent.com/blog/search-engine-optimisation-bot for instructions.
