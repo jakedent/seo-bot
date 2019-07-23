@@ -5,7 +5,7 @@ Simple SEO bot built using Python. Runs on OSX with Tor Browser Bundle Installed
 Time, Os, (Py)Socks, Stem, Subprocess
 - pip3 install pysocks && pip3 install stem
 
-# using seo-bot.py
+# Using seo-bot.py
 1. Update Tor Browser - open your Tor Browser as you normally would, or download from here: https://www.torproject.org
    - Tor Browser should update automatically on open. If it does not, check your preferences in the Tor Browser.
 2. Close Tor Browser completley.
