@@ -1,3 +1,5 @@
+# OLD SCRIPT
+# This is an old script, please use seo-bot.py instead for better results.
 import time
 import socks
 import os
