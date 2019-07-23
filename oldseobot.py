@@ -1,5 +1,5 @@
 # OLD SCRIPT
-# This is an old script, please use seo-bot.py instead for better results.
+# This is an old script, please use seobot.py instead for better results.
 import time
 import socks
 import os
