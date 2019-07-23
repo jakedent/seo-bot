@@ -10,7 +10,8 @@ Time, Os, (Py)Socks, Stem, Subprocess
    - Tor Browser should update automatically on open. If it does not, check your preferences in the Tor Browser.
 2. Close Tor Browser completley.
 3. Run: sudo python3 seo-bot.py
-4. Sit back and grab a coffee.
+4. Enter target URL.
+5. Sit back and grab a coffee.
 
 ![gr](https://user-images.githubusercontent.com/10816773/61673851-10c1bb00-ace9-11e9-940f-30bf279b841a.png)
  
