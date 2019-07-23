@@ -19,7 +19,7 @@ Time, Os, (Py)Socks, Stem, Subprocess
  
 # How seobot.py works
 1. Sets up a default proxy at local host.
-2. Initialises a SSL to be used. 
+2. Initialises SSL. 
 3. Takes a target URL from user input.
 4. Opens Tor Browser, waits to load.
 5. Opens target URL in new tab, waits to load.
