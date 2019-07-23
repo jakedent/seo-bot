@@ -61,7 +61,6 @@ tor_start()  # Call start Tor Browser function
 time.sleep(30)  # Wait for TOR to load
 tor_target()  # Call target URL function
 time.sleep(45)  # Wait for website to load
-generated_bytes()  # Initial read and write bytes
 
 while True:  # Run forever, press Ctrl+C to quit
     ip_switch()
