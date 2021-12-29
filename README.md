@@ -1,4 +1,4 @@
-# seo-bot-python
+# Search Engine Optimisation bot
 Simple SEO bot written in Python. Runs on OSX with Tor Browser Bundle Installed. 
 
 # Requirements:
