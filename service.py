@@ -21,6 +21,16 @@ def browse_by_times(times: int, url: str):
     tor_quit()
 
 
+# browse for infinity
+def browse_by_close_open(url: str):
+    start_browse(url)
+    i = 2
+    while True:
+        print("Times: {}".format(i))
+        start_browse(url)
+        i += 1
+
+
 # change ip
 def change_ip():
     ip_switch()
