@@ -42,7 +42,7 @@ def tor_quit():
     try:
         os.system('osascript -e \'quit app "Tor Browser.app"\'')
     except Exception as s:
-        print("Unable to start Tor Browser: {0}".format(s))
+        print("Unable to quit Tor Browser: {0}".format(s))
 
 
 # Request new identity from TOR

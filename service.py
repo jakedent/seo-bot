@@ -3,12 +3,17 @@ import time
 
 
 # browse for infinity
-def browse_by_infinity(url: str):
+def browse_by_infinity(url: str, infinity_type: str):
     start_browse(url)
     i = 2
     while True:
         print("Times: {}".format(i))
-        change_ip()
+        if infinity_type == "change":
+            change_ip()
+        elif infinity_type == "close":
+            start_browse(url)
+        else:
+            break
         i += 1
 
 
@@ -19,16 +24,6 @@ def browse_by_times(times: int, url: str):
         print("Times: {} / {}".format((i + 1), times))
         change_ip()
     tor_quit()
-
-
-# browse for infinity
-def browse_by_close_open(url: str):
-    start_browse(url)
-    i = 2
-    while True:
-        print("Times: {}".format(i))
-        start_browse(url)
-        i += 1
 
 
 # change ip
